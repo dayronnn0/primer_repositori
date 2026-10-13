@@ -49,6 +49,7 @@ git --version
 * [Documentació oficial de Visual Studio Code](https://code.visualstudio.com/docs)
 * [Guia de comandes Git](https://github.com/SMX-ProjecteIntermodular/Projecte2/blob/main/guies/02-comandes-git.md)
 * [Guia de Markdown](https://github.com/SMX-ProjecteIntermodular/Projecte2/blob/main/guies/03-markdown.md)
+- [Descarrega Visual Studio Code](https://code.visualstudio.com/Download)
 
 ## Flux de treball amb Git
 
