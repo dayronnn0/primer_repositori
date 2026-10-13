@@ -58,3 +58,6 @@ git --version
 4. Guardar els canvis amb `git commit`.
 5. Consultar l'historial amb `git log --oneline`.
 6. Pujar els canvis a GitHub amb `git push`.
+## Manteniment
+
+És important mantenir la documentació actualitzada quan es fan canvis en el procediment d'instal·lació.
