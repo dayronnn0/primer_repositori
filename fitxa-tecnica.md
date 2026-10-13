@@ -62,3 +62,9 @@ git --version
 ## Manteniment
 
 És important mantenir la documentació actualitzada quan es fan canvis en el procediment d'instal·lació.
+## Avantatges del control de versions
+
+* Permet consultar l'historial dels canvis.
+* Facilita la recuperació de versions anteriors.
+* Ajuda a treballar de manera ordenada.
+* Permet compartir la documentació amb altres persones.
